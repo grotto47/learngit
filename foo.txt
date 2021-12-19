@@ -1,3 +1,5 @@
 Hello, this repository is created for working with remotes in github
 Distributed vcs are just amazing.
 hats off to linus ;)
+
+Now those changes are pushed after grotto push his dev branch
